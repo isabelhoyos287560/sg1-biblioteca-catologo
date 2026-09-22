@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "Biblioteca.Domain": {
+      "commandName": "Project"
+    },
+    "Perfil 1": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\Usuario\\Documents\\GitHub\\sg1-biblioteca-catologo\\Biblioteca.Api"
+    }
+  }
+}
