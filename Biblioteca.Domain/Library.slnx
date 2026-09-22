@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../Biblioteca.Api/Library.Api.csproj" />
+  <Project Path="../Biblioteca.Application/Library.Application.csproj" />
+  <Project Path="../Biblioteca.Persistence/Library.Persistence.csproj" />
+  <Project Path="Library.Domain.csproj" />
+</Solution>
