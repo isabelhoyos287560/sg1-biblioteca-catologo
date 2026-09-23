@@ -1,5 +1,4 @@
-﻿using Library.Application.Contracts.Persistence;
-using Library.Domain.Entities;
+﻿using Library.Domain.Entities;
 
 namespace Library.Application.Contracts.Repositories
 {

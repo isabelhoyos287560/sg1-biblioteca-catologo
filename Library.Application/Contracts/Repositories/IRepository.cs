@@ -1,4 +1,4 @@
-﻿namespace Library.Application.Contracts.Persistence
+﻿namespace Library.Application.Contracts.Repositories
 {
     public interface IRepository<TEntity> where TEntity : class
     {

@@ -1,5 +1,4 @@
-﻿using Library.Application.Contracts.Persistence;
-using Library.Application.Contracts.Repositories;
+﻿using Library.Application.Contracts.Repositories;
 using Microsoft.EntityFrameworkCore;
 
 namespace Library.Persistence.Repositories
